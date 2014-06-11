@@ -1,0 +1,246 @@
+@font-face {
+  font-family: 'testabit-icons';
+  src: url('../fonts/testabit_icons.eot?63984491');
+  src: url('../fonts/testabit_icons.eot?63984491#iefix') format('embedded-opentype'), url('../fonts/testabit_icons.woff?63984491') format('woff'), url('../fonts/testabit_icons.ttf?63984491') format('truetype'), url('../fonts/testabit_icons.svg?63984491#testabit-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'testabit_icons';
+    src: url('../font/testabit_icons.svg?67137802#testabit_icons') format('svg');
+  }
+}
+*/
+[class^="ml-icon-"]:before,
+[class*=" ml-icon-"]:before {
+  font-family: "testabit-icons";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  margin-left: .2em;
+  text-align: center;
+  /* opacity: .8; */
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+.ml-icon-1:before {
+  content: '\e83a';
+}
+.ml-icon-2:before {
+  content: '\e839';
+}
+.ml-icon-3:before {
+  content: '\e800';
+}
+.ml-icon-4:before {
+  content: '\e801';
+}
+.ml-icon-5:before {
+  content: '\e802';
+}
+.ml-icon-6:before {
+  content: '\e803';
+}
+.ml-icon-7:before {
+  content: '\e804';
+}
+.ml-icon-8:before {
+  content: '\e805';
+}
+.ml-icon-9:before {
+  content: '\e806';
+}
+.ml-icon-10:before {
+  content: '\e807';
+}
+.ml-icon-11:before {
+  content: '\e808';
+}
+.ml-icon-12:before {
+  content: '\e809';
+}
+.ml-icon-13:before {
+  content: '\e80a';
+}
+.ml-icon-14:before {
+  content: '\e80b';
+}
+.ml-icon-15:before {
+  content: '\e80c';
+}
+.ml-icon-16:before {
+  content: '\e80d';
+}
+.ml-icon-17:before {
+  content: '\e80e';
+}
+.ml-icon-18:before {
+  content: '\e80f';
+}
+.ml-icon-19:before {
+  content: '\e810';
+}
+.ml-icon-20:before {
+  content: '\e811';
+}
+.ml-icon-21:before {
+  content: '\e83b';
+}
+.ml-icon-22:before {
+  content: '\e83c';
+}
+.ml-icon-23:before {
+  content: '\e812';
+}
+.ml-icon-24:before {
+  content: '\e813';
+}
+.ml-icon-25:before {
+  content: '\e814';
+}
+.ml-icon-26:before {
+  content: '\e815';
+}
+.ml-icon-27:before {
+  content: '\e816';
+}
+.ml-icon-28:before {
+  content: '\e817';
+}
+.ml-icon-29:before {
+  content: '\e818';
+}
+.ml-icon-30:before {
+  content: '\e819';
+}
+.ml-icon-31:before {
+  content: '\e81a';
+}
+.ml-icon-32:before {
+  content: '\e81b';
+}
+.ml-icon-33:before {
+  content: '\e81c';
+}
+.ml-icon-34:before {
+  content: '\e81d';
+}
+.ml-icon-35:before {
+  content: '\e81e';
+}
+.ml-icon-36:before {
+  content: '\e81f';
+}
+.ml-icon-37:before {
+  content: '\e820';
+}
+.ml-icon-38:before {
+  content: '\e821';
+}
+.ml-icon-39:before {
+  content: '\e822';
+}
+.ml-icon-40:before {
+  content: '\e823';
+}
+.ml-icon-41:before {
+  content: '\e83d';
+}
+.ml-icon-42:before {
+  content: '\e83e';
+}
+.ml-icon-43:before {
+  content: '\e824';
+}
+.ml-icon-44:before {
+  content: '\e825';
+}
+.ml-icon-45:before {
+  content: '\e826';
+}
+.ml-icon-46:before {
+  content: '\e827';
+}
+.ml-icon-47:before {
+  content: '\e828';
+}
+.ml-icon-48:before {
+  content: '\e829';
+}
+.ml-icon-49:before {
+  content: '\e82a';
+}
+.ml-icon-50:before {
+  content: '\e82b';
+}
+.ml-icon-51:before {
+  content: '\e82c';
+}
+.ml-icon-52:before {
+  content: '\e82d';
+}
+.ml-icon-53:before {
+  content: '\e82e';
+}
+.ml-icon-54:before {
+  content: '\e82f';
+}
+.ml-icon-55:before {
+  content: '\e830';
+}
+.ml-icon-56:before {
+  content: '\e831';
+}
+.ml-icon-57:before {
+  content: '\e832';
+}
+.ml-icon-58:before {
+  content: '\e833';
+}
+.ml-icon-59:before {
+  content: '\e834';
+}
+.ml-icon-60:before {
+  content: '\e835';
+}
+.ml-icon-61:before {
+  content: '\e840';
+}
+.ml-icon-62:before {
+  content: '\e83f';
+}
+.ml-icon-63:before {
+  content: '\e836';
+}
+.ml-icon-64:before {
+  content: '\e837';
+}
+.ml-icon-65:before {
+  content: '\e838';
+}
+.ml-icon-66:before {
+  content: '\e841';
+}
+.ml-icon-67:before {
+  content: '\e842';
+}
+.ml-icon-68:before {
+  content: '\e843';
+}
